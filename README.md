@@ -5,6 +5,8 @@ TV Shows web app developed with Vue CLI (Vue 3), Pinia, Vue-router, Tailwind and
 - Together with Pinia, no need to have a lot of boilerplate code and its API is much simpler and intuitive.
 - Used Tailwind; an efficient CSS framework that enables to create application faster, provides more flexibility with easy-to-build responsive layouts.
 
+https://prismatic-semifreddo-a7d7fc.netlify.app/
+
 ## Other dependencies
  - [`axios`](https://github.com/axios/axios)
  - [`FontAwesome`](https://fontawesome.com/)
